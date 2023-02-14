@@ -29,6 +29,7 @@ class Downloader:
         self.frame_1 = ctk.CTkFrame(master=self.frame)
         self.frame_1.columnconfigure(0, weight=1)
         self.frame_1.columnconfigure(1, weight=1)
+        
         self.url_var = tk.StringVar()
         self.link = ctk.CTkEntry(master=self.frame_1, width=350, height=40, textvariable=self.url_var, )
         self.link.grid(row=0, column=0, sticky=tk.W+tk.E)

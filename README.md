@@ -18,3 +18,5 @@ install pytube
 ```
 pip3 install pytube
 ```
+
+### After installation, run main.py

@@ -1,22 +1,17 @@
 # Youtube-Video-Downloader
 
 ## Installation
-Install the modules with pip:
 
-Install customtkinter
-```
-pip3 install customtkinter
-```
-**Update existing installation:** ```pip3 install customtkinter --upgrade```\
-(update as often as possible because this library is under active development)
+```console
+# clone the repo
+$ git clone https://github.com/sachith-d/Real-Time-Word-Counter.git
 
-Install tkinter
+# install the requirements
+$ python3 -m pip install -r requirements.txt
 ```
-pip3 install tkinter
+## Usage
+```console
+$ cd Youtube-Video-Downloader
+$ python main.py
 ```
-install pytube
-```
-pip3 install pytube
-```
-
 ### After installation, run main.py

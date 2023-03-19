@@ -6,6 +6,7 @@
 # clone the repo
 $ git clone https://github.com/sachith-d/Youtube-Video-Downloader.git
 
+# navigate to the directory
 $ cd Youtube-Video-Downloader
 
 # install the requirements

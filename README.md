@@ -16,3 +16,6 @@ $ python3 -m pip install -r requirements.txt
 ```console
 
 $ python main.py
+```
+
+Copy and past youtube link to the input field, select download quality and click download!
